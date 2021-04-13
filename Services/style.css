@@ -362,6 +362,9 @@ p {
     border-bottom: 1px solid;
     padding-left: 30px;
   }
+  .a1 {
+    border: none;
+  }
 }
 @media (max-width: 350px) {
   .na b {

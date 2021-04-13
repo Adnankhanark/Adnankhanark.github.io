@@ -365,6 +365,10 @@ input[type="submit"]:hover {
   .a1 {
     margin-left: -65px;
   }
+  .a1 {
+    border-bottom: none;
+  }
+
   input[type="text"],
   select {
     margin-left: 0px;
@@ -397,11 +401,6 @@ input[type="submit"]:hover {
     margin-top: 50px;
     border: none;
   }
-  /* .dr {
-    background-color: rgba(0, 0, 0, 0.829);
-    color: rgb(255, 255, 255);
-  } */
-
   .dr a {
     color: white;
   }
@@ -445,7 +444,9 @@ input[type="submit"]:hover {
   .a1 {
     margin-left: -65px;
   }
-
+  .map1 {
+    height: 50vh;
+  }
   .conde {
     flex-direction: column;
   }
